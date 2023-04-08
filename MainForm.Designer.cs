@@ -356,7 +356,7 @@ namespace ValidEmailChecker
             this.EmailTitle.Name = "EmailTitle";
             this.EmailTitle.Size = new System.Drawing.Size(89, 20);
             this.EmailTitle.TabIndex = 3;
-            this.EmailTitle.Text = "Valid Emails";
+            this.EmailTitle.Text = "ValidEmailsssssssS";
             // 
             // LoadedEmailsLabel
             // 
@@ -528,7 +528,7 @@ namespace ValidEmailChecker
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Spotify Valid Email Checker";
+            this.Text = "Valid Email Checker";
             this.TopMost = true;
             this.SetupGB.ResumeLayout(false);
             this.SetupGB.PerformLayout();
