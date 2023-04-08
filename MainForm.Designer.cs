@@ -93,7 +93,7 @@ namespace ValidEmailChecker
             this.SetupGB.ShadowDecoration.Parent = this.SetupGB;
             this.SetupGB.Size = new System.Drawing.Size(224, 348);
             this.SetupGB.TabIndex = 0;
-            this.SetupGB.Text = "Setup";
+            this.SetupGB.Text = "SetupTEXT";
             // 
             // siticoneButton1
             // 
